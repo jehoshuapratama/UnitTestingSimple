@@ -1,0 +1,17 @@
+D:\Work\RnD\Tutorial\Simple Unit Test\Simple Unit Test\bin\Debug\net6.0-windows\Simple Unit Test.exe
+D:\Work\RnD\Tutorial\Simple Unit Test\Simple Unit Test\bin\Debug\net6.0-windows\Simple Unit Test.deps.json
+D:\Work\RnD\Tutorial\Simple Unit Test\Simple Unit Test\bin\Debug\net6.0-windows\Simple Unit Test.runtimeconfig.json
+D:\Work\RnD\Tutorial\Simple Unit Test\Simple Unit Test\bin\Debug\net6.0-windows\Simple Unit Test.dll
+D:\Work\RnD\Tutorial\Simple Unit Test\Simple Unit Test\bin\Debug\net6.0-windows\Simple Unit Test.pdb
+D:\Work\RnD\Tutorial\Simple Unit Test\Simple Unit Test\obj\Debug\net6.0-windows\Simple Unit Test.csproj.AssemblyReference.cache
+D:\Work\RnD\Tutorial\Simple Unit Test\Simple Unit Test\obj\Debug\net6.0-windows\Simple_Unit_Test.frmUnitTesting.resources
+D:\Work\RnD\Tutorial\Simple Unit Test\Simple Unit Test\obj\Debug\net6.0-windows\Simple Unit Test.csproj.GenerateResource.cache
+D:\Work\RnD\Tutorial\Simple Unit Test\Simple Unit Test\obj\Debug\net6.0-windows\Simple Unit Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\RnD\Tutorial\Simple Unit Test\Simple Unit Test\obj\Debug\net6.0-windows\Simple Unit Test.AssemblyInfoInputs.cache
+D:\Work\RnD\Tutorial\Simple Unit Test\Simple Unit Test\obj\Debug\net6.0-windows\Simple Unit Test.AssemblyInfo.cs
+D:\Work\RnD\Tutorial\Simple Unit Test\Simple Unit Test\obj\Debug\net6.0-windows\Simple Unit Test.csproj.CoreCompileInputs.cache
+D:\Work\RnD\Tutorial\Simple Unit Test\Simple Unit Test\obj\Debug\net6.0-windows\Simple Unit Test.dll
+D:\Work\RnD\Tutorial\Simple Unit Test\Simple Unit Test\obj\Debug\net6.0-windows\refint\Simple Unit Test.dll
+D:\Work\RnD\Tutorial\Simple Unit Test\Simple Unit Test\obj\Debug\net6.0-windows\Simple Unit Test.pdb
+D:\Work\RnD\Tutorial\Simple Unit Test\Simple Unit Test\obj\Debug\net6.0-windows\Simple Unit Test.genruntimeconfig.cache
+D:\Work\RnD\Tutorial\Simple Unit Test\Simple Unit Test\obj\Debug\net6.0-windows\ref\Simple Unit Test.dll
